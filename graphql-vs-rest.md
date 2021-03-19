@@ -1,4 +1,5 @@
 My learnings from [GraphQL vs REST](https://hasura.io/learn/graphql/intro-graphql/graphql-vs-rest/)
+
 The benefits of GraphQL over REST are:
 1. No overfetching - fetch exactly what you need. With REST, you'll be getting the full data set whether you want it or not.
 2. There's no need for multiple API calls - with GraphQL you can make ad-hoc queries as and when required and the data is returned based on the query.
