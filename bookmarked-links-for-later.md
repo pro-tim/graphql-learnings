@@ -1,17 +1,17 @@
-https://in.pinterest.com/pin/1108941108215327347/
-https://gist.github.com/pro-tim/25e2d370988fe467b60cc756ceef2a24
-https://github.com/pro-tim/graphql-learnings/blob/main/graphql-vs-rest.md
-https://t.me/s/graphqltutorials
-https://www.behance.net/gallery/115229809/Hasura-and-GraphQL-Conceptual-posters
-https://www.dropbox.com/scl/fi/zv31p94d1jgx8ypfpmpds/GraphQL-vs-REST.paper?dl=0&rlkey=v5mxlysbyegq7crlf5qotzpsw
-https://b.hatena.ne.jp/entry?url=https%3A%2F%2Fhasura.io%2Flearn%2Fgraphql%2Fintro-graphql%2Fgraphql-vs-rest%2F
-https://www.liveinternet.ru/users/graphql/post481781861//
-https://hasurahq.hatenablog.com/entry/2021/03/20/003613
-http://graphql.e-monsite.com/blog/graphql-tutorial/my-new-website.html
-https://www.evernote.com/shard/s628/sh/3f35ab25-8e30-db39-3a69-d48da8b83fb8/38429a04fb92b4b26f9613fbb43a45e7
-https://graphql.atlassian.net/wiki/spaces/HASURA/pages/20447233/GraphQL+vs+REST
-https://www.notion.so/GraphQL-vs-REST-2f0c9b89471a45868e1f4c7c75c24176
-https://telegra.ph/GraphQL-vs-REST-03-19
-https://slides.com/protimbhaumik/graphql-vs-rest
-https://1drv.ms/u/s!Aor86AczRQUOgrZYhP0YpbAxL8SMUA?e=sMgQN7
-https://doc.clickup.com/d/37uh0-11/graph-q-lvs-rest
+- https://in.pinterest.com/pin/1108941108215327347/
+- https://gist.github.com/pro-tim/25e2d370988fe467b60cc756ceef2a24
+- https://github.com/pro-tim/graphql-learnings/blob/main/graphql-vs-rest.md
+- https://t.me/s/graphqltutorials
+- https://www.behance.net/gallery/115229809/Hasura-and-GraphQL-Conceptual-posters
+- https://www.dropbox.com/scl/fi/zv31p94d1jgx8ypfpmpds/GraphQL-vs-REST.paper?dl=0&rlkey=v5mxlysbyegq7crlf5qotzpsw
+- https://b.hatena.ne.jp/entry?url=https%3A%2F%2Fhasura.io%2Flearn%2Fgraphql%2Fintro-graphql%2Fgraphql-vs-rest%2F
+- https://www.liveinternet.ru/users/graphql/post481781861//
+- https://hasurahq.hatenablog.com/entry/2021/03/20/003613
+- http://graphql.e-monsite.com/blog/graphql-tutorial/my-new-website.html
+- https://www.evernote.com/shard/s628/sh/3f35ab25-8e30-db39-3a69-d48da8b83fb8/38429a04fb92b4b26f9613fbb43a45e7
+- https://graphql.atlassian.net/wiki/spaces/HASURA/pages/20447233/GraphQL+vs+REST
+- https://www.notion.so/GraphQL-vs-REST-2f0c9b89471a45868e1f4c7c75c24176
+- https://telegra.ph/GraphQL-vs-REST-03-19
+- https://slides.com/protimbhaumik/graphql-vs-rest
+- https://1drv.ms/u/s!Aor86AczRQUOgrZYhP0YpbAxL8SMUA?e=sMgQN7
+- https://doc.clickup.com/d/37uh0-11/graph-q-lvs-rest
